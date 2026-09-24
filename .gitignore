@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 qdrant_db/
 qdrant_chunks/
+.toke_usage.json
